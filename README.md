@@ -91,7 +91,3 @@ This project showcases:
 
 ---
 
-
-
-
-Would you like me to enhance this README further with **badges and sample screenshots sections** (placeholders where you can add images of ADF pipelines/Databricks notebooks)? That would make it look even more polished to recruiters.
