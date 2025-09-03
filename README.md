@@ -9,19 +9,6 @@ The solution demonstrates how cloud-native data engineering practices can enable
 
 ---
 
-## 🏗 Architecture
-
-```mermaid
-flowchart TD
-    A[Raw Healthcare Data (CSV)] --> B[Azure Blob Storage (Raw)]
-    B --> C[Azure Data Factory - Ingestion Pipeline]
-    C --> D[Azure Databricks (ETL & Transformation)]
-    D --> E[Processed & Curated Data (Parquet/Delta)]
-    E --> F[Analytics & Reporting Layer]
-```
-
----
-
 ## 📌 Key Highlights
 
 ✔ End-to-End **serverless data pipeline**
