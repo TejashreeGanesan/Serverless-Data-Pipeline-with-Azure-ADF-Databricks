@@ -12,10 +12,15 @@ The solution demonstrates how cloud-native data engineering practices can enable
 ## 📌 Key Highlights
 
 ✔ End-to-End **serverless data pipeline**
+
 ✔ Automated **ingestion → transformation → analysis**
+
 ✔ **Multi-layered storage** (Raw → Processed → Analyzed)
+
 ✔ **Delta Lake integration** for optimized queries
+
 ✔ Actionable insights: patient behavior, doctor performance, and revenue trends
+
 ✔ Scalable & cost-efficient with **on-demand Databricks clusters**
 
 ---
@@ -57,12 +62,14 @@ The solution demonstrates how cloud-native data engineering practices can enable
 ## 📊 Results
 
 ✔ Successfully ingested, transformed, and stored healthcare datasets
+
 ✔ Analytical reports on:
 
 * First-time vs. returning patients
 * Revenue trends across doctors & specializations
 * Appointment distribution (daily/weekly/monthly)
   ✔ Optimized pipelines with **partitioning & Delta Lake performance features**
+  
   ✔ Robust monitoring & error handling in ADF + Databricks
 
 ---
