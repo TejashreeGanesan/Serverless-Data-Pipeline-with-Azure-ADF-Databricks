@@ -68,6 +68,7 @@ The solution demonstrates how cloud-native data engineering practices can enable
 * First-time vs. returning patients
 * Revenue trends across doctors & specializations
 * Appointment distribution (daily/weekly/monthly)
+  
   ✔ Optimized pipelines with **partitioning & Delta Lake performance features**
   
   ✔ Robust monitoring & error handling in ADF + Databricks
