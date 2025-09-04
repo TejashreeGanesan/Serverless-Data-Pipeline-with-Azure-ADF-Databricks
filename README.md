@@ -75,14 +75,3 @@ The solution demonstrates how cloud-native data engineering practices can enable
 
 ---
 
-## 🎯 Learning Outcomes
-
-This project showcases:
-
-* Designing **serverless pipelines** in Azure
-* Building **scalable ETL workflows** with PySpark
-* Implementing **cloud-native best practices** (decoupled storage & compute, monitoring, CI/CD-ready pipelines)
-* Applying **data engineering to real-world healthcare analytics**
-
----
-
